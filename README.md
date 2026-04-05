@@ -9,7 +9,7 @@ A machine learning pipeline that predicts customer churn
 for a telecom company, deployed as an interactive business
 dashboard with real-time predictions and data visualizations.
 
-**[Live Demo](YOUR_STREAMLIT_URL)**
+**[Live Demo](https://customer-churn-prediction-dashboard-u7avckzktypqdb3i5fx6jy.streamlit.app/)**
 
 ---
 
